@@ -108,7 +108,7 @@
       "comments": [
         {
           "id": 0,
-          "user": "replyer",
+          "responding_user": "replyer",
           "response": "Sooooo dope!"
         }
       ]
@@ -120,12 +120,12 @@
       "comments": [
         {
           "id": 0,
-          "user": "micah",
+          "responding_user": "micah",
           "response": "Did he get malaria?!"
         },
         {
           "id": 1,
-          "user": "yoshi",
+          "responding_user": "yoshi",
           "response": "No, that was @Blaise."
         }
       ]
@@ -137,7 +137,7 @@
       "comments": [
         {
           "id": 0,
-          "user": "simpulton",
+          "responding_user": "simpulton",
           "response": "Are you kidding me? RIP my soul!!!!"
         }
       ]
@@ -149,7 +149,7 @@
       "comments": [
         {
           "id": 0,
-          "user": "micah",
+          "responding_user": "micah",
           "response": "same"
         }
       ]

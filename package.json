@@ -1,7 +1,7 @@
 {
-  "name": "json-server-heroku",
+  "name": "levelup-json",
   "version": "1.0.0",
-  "description": "Simple json-base database to deploy to Heroku",
+  "description": "Simple json-base database for 30 app challenge",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
