@@ -1,16 +1,158 @@
 {
-  "posts":[
+  "developers":[
     {
       "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "name": "Victor",
+      "repo": "https://github.com/VicAv99/Level-Up.git",
+      "projects" : [
+        {
+          "id": 0,
+          "name": "YouTube API",
+          "url": "https://youtube-api-app.surge.sh"
+        },
+        {
+          "id": 1,
+          "name": "Twitter API",
+          "url": "https://twitter-app.surge.sh"
+        },
+        {
+          "id": 2,
+          "name": "StarWars API",
+          "url": "https://starwars-api-app.surge.sh"
+        },
+        {
+          "id": 3,
+          "name": "Pokemon API",
+          "url": "https://poke-app.surge.sh"
+        }
+      ]
+    },
+    {
+      "id" : 1,
+      "name": "Micah",
+      "repo": "https://github.com/VicAv99/Level-Up.git",
+      "projects" : [
+        {
+          "id": 0,
+          "name": "StarWars API",
+          "url": "http://star-wars-api.surge.sh/"
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "name": "Josh",
+      "repo": "https://github.com/VicAv99/Level-Up.git",
+      "projects" : [
+        {
+          "id": 0,
+          "name": "YouTube API",
+          "url": "https://youtube-api-app.surge.sh"
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "name": "Blaise",
+      "repo": "https://github.com/VicAv99/Level-Up.git",
+      "projects" : [
+        {
+          "id": 0,
+          "name": "YouTube API",
+          "url": "https://youtube-api-app.surge.sh"
+        }
+      ]
+    },
+    {
+      "id" : 4,
+      "name": "Yoshi",
+      "repo": "https://github.com/Kolomonkey",
+      "projects" : [
+        {
+          "id": 0,
+          "name": "YouTube API",
+          "url": "http://venturtube.surge.sh "
+        }
+      ]
+    },
+    {
+      "id" : 5,
+      "name": "Chris",
+      "repo": "https://github.com/aklukas",
+      "projects" : [
+        {
+          "id": 0,
+          "name": "YouTube API",
+          "url": "https://youtube-api-app.surge.sh"
+        }
+      ]
+    },
+    {
+      "id" : 6,
+      "name": "Kenny",
+      "repo": "https://github.com/VicAv99/Level-Up.git",
+      "projects" : [
+        {
+          "id": 0,
+          "name": "YouTube API",
+          "url": "http://loose-paste.surge.sh/"
+        }
+      ]
     }
   ],
-  "comments" : [
+  "posts" : [
     {
       "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "content": "Flying to LA!",
+      "username": "@RandomUser",
+      "comments": [
+        {
+          "id": 0,
+          "user": "replyer",
+          "response": "Sooooo dope!"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "content": "Really hope @aklukas makes it",
+      "username": "@Mingus",
+      "comments": [
+        {
+          "id": 0,
+          "user": "micah",
+          "response": "Did he get malaria?!"
+        },
+        {
+          "id": 1,
+          "user": "yoshi",
+          "response": "No, that was @Blaise."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "content": "RIP VenturPlex devs, no more @jdgarvey",
+      "username": "@kuenzli",
+      "comments": [
+        {
+          "id": 0,
+          "user": "simpulton",
+          "response": "Are you kidding me? RIP my soul!!!!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "content": "I forgot how to code",
+      "username": "@VMA",
+      "comments": [
+        {
+          "id": 0,
+          "user": "micah",
+          "response": "same"
+        }
+      ]
     }
   ]
 }
