@@ -390,3 +390,7 @@ You should be prompted to supply a password, this should be the pass to your acc
 
 
 Choose **App Services** in the sidebar to the left and the choose your app in the list that appears then go to **Deployment Credentials** to change your password for deployment.
+
+---
+
+Readme and app added from [json-server](https://www.npmjs.com/package/json-server) and [jesperorb](https://github.com/jesperorb/json-server-heroku).
