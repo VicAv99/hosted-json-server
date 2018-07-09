@@ -224,5 +224,31 @@
       "description": "I think I am having issues with the module itself.",
       "createdAt": "June 24, 2018"
     }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "fullName": "Elias Page",
+      "address": "123 W Some St",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "zipcode": "85382"
+    },
+    {
+      "id": 2,
+      "fullName": "Victor Avila",
+      "address": "11833 W Corrine Dr",
+      "city": "El Mirage",
+      "state": "Arizona",
+      "zipcode": "85335"
+    },
+    {
+      "id": 3,
+      "fullName": "Lukas VenturPlex",
+      "address": "8765 W Kelton Lane",
+      "city": "Peoria",
+      "state": "Arizona",
+      "zipcode": "85382"
+    }
   ]
 }
