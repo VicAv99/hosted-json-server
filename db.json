@@ -250,5 +250,22 @@
       "state": "Arizona",
       "zipcode": "85382"
     }
+  ],
+  "dealership": [
+    {
+      "year": "2003",
+      "make": "Ford",
+      "model": "Mustang"
+    },
+    {
+      "year": "2015",
+      "make": "Chevrolet",
+      "model": "Camaro"
+    },
+    {
+      "year": "2007",
+      "make": "Nissan",
+      "model": "Altima"
+    }
   ]
 }
