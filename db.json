@@ -187,44 +187,6 @@
       ]
     }
   ],
-  "Q": [
-    {
-      "id": 1,
-      "requester": "Victor",
-      "assignee": "Jon",
-      "project": "AllSports",
-      "name": "FireBase Issues",
-      "description": "I think I am having issues with the module itself.",
-      "createdAt": "June 24, 2018"
-    },
-    {
-      "id": 2,
-      "requester": "Victor",
-      "assignee": "Jon",
-      "project": "AllSports",
-      "name": "FireBase Issues",
-      "description": "I think I am having issues with the module itself.",
-      "createdAt": "June 24, 2018"
-    },
-    {
-      "id": 3,
-      "requester": "Victor",
-      "assignee": "Jon",
-      "project": "AllSports",
-      "name": "FireBase Issues",
-      "description": "I think I am having issues with the module itself.",
-      "createdAt": "June 24, 2018"
-    },
-    {
-      "id": 4,
-      "requester": "Victor",
-      "assignee": "Jon",
-      "project": "AllSports",
-      "name": "FireBase Issues",
-      "description": "I think I am having issues with the module itself.",
-      "createdAt": "June 24, 2018"
-    }
-  ],
   "contacts": [
     {
       "id": 1,
