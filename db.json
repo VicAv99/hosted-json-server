@@ -253,16 +253,19 @@
   ],
   "dealership": [
     {
+      "id": 1,
       "year": "2003",
       "make": "Ford",
       "model": "Mustang"
     },
     {
+      "id": 2,
       "year": "2015",
       "make": "Chevrolet",
       "model": "Camaro"
     },
     {
+      "id": 3,
       "year": "2007",
       "make": "Nissan",
       "model": "Altima"
