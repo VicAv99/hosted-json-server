@@ -1,10 +1,10 @@
 {
-  "developers":[
+  "developers": [
     {
-      "id" : 1,
+      "id": 1,
       "name": "Victor",
       "repo": "https://github.com/VicAv99/Level-Up.git",
-      "projects" : [
+      "projects": [
         {
           "id": 1,
           "name": "YouTube API",
@@ -28,10 +28,10 @@
       ]
     },
     {
-      "id" : 2,
+      "id": 2,
       "name": "Micah",
       "repo": "https://github.com/VicAv99/Level-Up.git",
-      "projects" : [
+      "projects": [
         {
           "id": 1,
           "name": "StarWars API",
@@ -40,10 +40,10 @@
       ]
     },
     {
-      "id" : 3,
+      "id": 3,
       "name": "Josh",
       "repo": "https://github.com/VicAv99/Level-Up.git",
-      "projects" : [
+      "projects": [
         {
           "id": 1,
           "name": "YouTube API",
@@ -52,10 +52,10 @@
       ]
     },
     {
-      "id" : 4,
+      "id": 4,
       "name": "Blaise",
       "repo": "https://github.com/VicAv99/Level-Up.git",
-      "projects" : [
+      "projects": [
         {
           "id": 1,
           "name": "YouTube API",
@@ -64,10 +64,10 @@
       ]
     },
     {
-      "id" : 5,
+      "id": 5,
       "name": "Yoshi",
       "repo": "https://github.com/Kolomonkey",
-      "projects" : [
+      "projects": [
         {
           "id": 1,
           "name": "YouTube API",
@@ -76,10 +76,10 @@
       ]
     },
     {
-      "id" : 6,
+      "id": 6,
       "name": "Chris",
       "repo": "https://github.com/aklukas",
-      "projects" : [
+      "projects": [
         {
           "id": 1,
           "name": "YouTube API",
@@ -88,10 +88,10 @@
       ]
     },
     {
-      "id" : 7,
+      "id": 7,
       "name": "Kenny",
       "repo": "https://github.com/VicAv99/Level-Up.git",
-      "projects" : [
+      "projects": [
         {
           "id": 1,
           "name": "YouTube API",
@@ -100,7 +100,7 @@
       ]
     }
   ],
-  "posts" : [
+  "posts": [
     {
       "id": 1,
       "content": "Flying to LA!",
@@ -187,50 +187,56 @@
       ]
     }
   ],
-  "contacts": [
-    {
-      "id": 1,
-      "fullName": "Elias Page",
-      "address": "123 W Some St",
-      "city": "Phoenix",
-      "state": "Arizona",
-      "zipcode": "85382"
-    },
+  "Q": [
     {
       "id": 2,
-      "fullName": "Victor Avila",
-      "address": "11833 W Corrine Dr",
-      "city": "El Mirage",
-      "state": "Arizona",
-      "zipcode": "85335"
+      "requester": "Victor",
+      "assignee": "Jon",
+      "project": "AllSports",
+      "name": "FireBase Issues",
+      "description": "I think I am having issues with the module itself.",
+      "createdAt": "June 24, 2018"
     },
     {
       "id": 3,
-      "fullName": "Lukas VenturPlex",
-      "address": "8765 W Kelton Lane",
-      "city": "Peoria",
-      "state": "Arizona",
-      "zipcode": "85382"
+      "requester": "Victor",
+      "assignee": "Jon",
+      "project": "AllSports",
+      "name": "FireBase Issues",
+      "description": "I think I am having issues with the module itself.",
+      "createdAt": "June 24, 2018"
+    },
+    {
+      "id": 4,
+      "requester": "Victor",
+      "assignee": "Jon",
+      "project": "AllSports",
+      "name": "FireBase Issues",
+      "description": "I think I am having issues with the module itself.",
+      "createdAt": "June 24, 2018"
     }
   ],
-  "dealership": [
+  "todos": [
     {
       "id": 1,
-      "year": "2003",
-      "make": "Ford",
-      "model": "Mustang"
+      "title": "todo number 1",
+      "description": "I have to get todo number 1 done!",
+      "urgent": true,
+      "completed": false
     },
     {
       "id": 2,
-      "year": "2015",
-      "make": "Chevrolet",
-      "model": "Camaro"
+      "title": "todo number 2",
+      "description": "I dont really have to get todo number 2 done!",
+      "urgent": false,
+      "completed": false
     },
     {
       "id": 3,
-      "year": "2007",
-      "make": "Nissan",
-      "model": "Altima"
+      "title": "todo number 3",
+      "description": "I have to get todo number 3 done!",
+      "urgent": true,
+      "completed": false
     }
   ]
 }
