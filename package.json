@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "deploy": "now --public && now alias"
   },
   "keywords": [
     "json-server,heroku, node, REST API"
@@ -14,5 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.12.1"
+  },
+  "now": {
+    "alias": "levelup-json"
   }
 }

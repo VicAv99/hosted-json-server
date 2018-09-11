@@ -1,0 +1,59 @@
+Arguments: 
+  /Users/VicAv99/.nvm/versions/node/v10.5.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js deploy
+
+PATH: 
+  /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin:/Users/VicAv99/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin:/Users/VicAv99/.nvm/versions/node/v10.5.0/bin:/Users/VicAv99/bin:/Users/VicAv99:/Users/VicAv99/Library/Android/sdk/tools:/Users/VicAv99/Library/Android/sdk/platform-tools:/Applications/AccuRev/bin:/Users/VicAv99/Library/Android/sdk/tools:/Users/VicAv99/Library/Android/sdk/platform-tools:/Applications/AccuRev/bin:/usr/local/bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  10.5.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "levelup-json",
+    "version": "1.0.0",
+    "description": "Simple json-base database for 30 app challenge",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "dev": "nodemon server.js",
+      "deploy": "now --public && now alias"
+    },
+    "keywords": [
+      "json-server,heroku, node, REST API"
+    ],
+    "author": "Jesper Orb",
+    "license": "ISC",
+    "dependencies": {
+      "json-server": "^0.12.1"
+    },
+    "now": {
+      "alias": "levelup-json"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Command failed.
+  Exit code: 1
+  Command: sh
+  Arguments: -c now --public && now alias
+  Directory: /Users/VicAv99/projects/venturplex/internal-projects/levelup/json-server-heroku
+  Output:
+  
+      at ProcessTermError.MessageError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:186:110)
+      at new ProcessTermError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:226:113)
+      at ChildProcess.<anonymous> (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:30281:17)
+      at ChildProcess.emit (events.js:182:13)
+      at maybeClose (internal/child_process.js:961:16)
+      at Process.ChildProcess._handle.onexit (internal/child_process.js:248:5)

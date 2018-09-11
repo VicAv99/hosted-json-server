@@ -238,5 +238,101 @@
       "urgent": true,
       "completed": false
     }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "userId": "vicav99",
+      "jobTitle": "Jr Developer",
+      "fullName": "Victor Avila",
+      "preferredName": "SlickVic",
+      "employeeCode": "A2",
+      "phoneNumber": "602-437-6432",
+      "emailAddress": "slickness99@gmail.com",
+      "address": {
+        "street1":"1234 W Corrine St",
+        "street2":"",
+        "city": "El Mirage",
+        "state": "AZ",
+        "zip": "85335"
+      }
+    },
+    {
+      "id": 2,
+      "userId": "jdgarv",
+      "jobTitle": "Sr Engineer",
+      "fullName": "Jon Garvey",
+      "preferredName": "Garve",
+      "employeeCode": "A1",
+      "phoneNumber": "408-123-4567",
+      "emailAddress": "justajdthang@gmail.com",
+      "address": {
+        "street1": "1857 N Cambridge Dr",
+        "street2": "",
+        "city": "Peoria",
+        "state": "AZ",
+        "zip": "85245"
+      }
+    },
+    {
+      "id": 3,
+      "userId": "aklukas",
+      "jobTitle": "Jr Developer",
+      "fullName": "Chris Take",
+      "preferredName": "Chris",
+      "employeeCode": "A2",
+      "phoneNumber": "408-222-2222",
+      "emailAddress": "imfromalaska@gmail.com",
+      "address": {
+        "street1": "42638 N Alaska Ave",
+        "street2": "",
+        "city": "alaska city",
+        "state": "Alaska",
+        "zip": "45874"
+      }
+    },
+    {
+      "id": 4,
+      "userId": "thanks",
+      "jobTitle": "Program Directory",
+      "fullName": "Tom",
+      "preferredName": "Tom Hanks",
+      "employeeCode": "E3",
+      "phoneNumber": "408-2222222",
+      "emailAddress": "tomhanks@gmail.com",
+      "address": {
+        "street1": "1534 S WinterHaven Dr",
+        "street2": "apt 300",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85009"
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "productName": "Hammer",
+      "productCode": "#AZ123",
+      "price": 4.99,
+      "category": "Maintenance",
+      "rating": 3.5
+    },
+    {
+      "id": 2,
+      "productName": "Fan",
+      "productCode": "#FN876",
+      "price": 12.75,
+      "category": "Maintenance",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "productName": "T-Shirt",
+      "productCode": "#TSH150",
+      "price": 2.99,
+      "category": "Clothing",
+      "rating": 2
+    }
   ]
 }
