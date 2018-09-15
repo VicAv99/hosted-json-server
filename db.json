@@ -334,5 +334,33 @@
       "category": "Clothing",
       "rating": 2
     }
+  ],
+  "pizza": [
+    {
+      "id": 1,
+      "size": "large",
+      "toppings": [
+        { "toppingName": "pepperoni" },
+        { "toppingName": "salami" },
+        { "toppingName": "sausage" },
+        { "toppingName": "mushrooms" }
+      ],
+      "extras": [
+        { "extraName": "extra sauce" },
+        { "extraName": "extra cheese" }
+      ],
+      "howDone": "well done"
+    },
+    {
+      "id": 2,
+      "size": "medium",
+      "toppings": [
+        { "toppingName": "pineapple" }
+      ],
+      "extras": [
+        { "extraName": "light sauce" }
+      ],
+      "howDone": "regular"
+    }
   ]
 }
