@@ -338,6 +338,7 @@
   "pizza": [
     {
       "id": 1,
+      "pizzaName": "Da Meats + 'Shrooms",
       "size": "large",
       "toppings": [
         { "toppingName": "pepperoni" },
@@ -353,6 +354,7 @@
     },
     {
       "id": 2,
+      "pizzaName": "This is not pizza",
       "size": "medium",
       "toppings": [
         { "toppingName": "pineapple" }
