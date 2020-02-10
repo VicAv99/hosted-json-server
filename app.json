@@ -1,0 +1,6 @@
+{
+  "name": "JSON Server Sample",
+  "description": "A barebones JSON app",
+  "repository": "https://github.com/VicAv99/hosted-json-server",
+  "keywords": ["node", "json", "static"]
+}
