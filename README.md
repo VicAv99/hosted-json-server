@@ -44,7 +44,11 @@ _this example will create `/posts` route , each resource will have `id`, `title`
 
 <img  align="right"  width="100px"  height="auto"  src="https://cdn.worldvectorlogo.com/logos/heroku.svg"  alt="Heroku">
 
-Heroku is a free hosting service for hosting small projects. Easy setup and deploy from the command line via _git_. You can also skip the steps below and just click this button -> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VicAv99/hosted-json-server)
+Heroku is a free hosting service for hosting small projects. Easy setup and deploy from the command line via _git_.
+
+You can also skip the steps below and just click this button: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VicAv99/hosted-json-server)
+
+If you are coming from the 30x30 challenge use this: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VicAv99/hosted-json-server/tree/api-30x30)
 
 ###### Pros
 
