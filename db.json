@@ -1,9 +1,202 @@
 {
+  "cars": [
+    {
+      "id": 1,
+      "make": "Honda",
+      "model": "civic",
+      "maxSpeed": 125
+    },
+    {
+      "id": 2,
+      "make": "mitsubishi",
+      "model": "eclipse",
+      "maxSpeed": 115
+    },
+    {
+      "id": 3,
+      "make": "acura",
+      "model": "integra",
+      "maxSpeed": 135
+    }
+  ],
+  "computers": [
+    {
+      "id": 1,
+      "make": "Apple",
+      "name": "Mac Book Pro",
+      "ram": 16,
+      "isDesktop": false
+    },
+    {
+      "id": 2,
+      "make": "Apple",
+      "name": "Mac Book Air",
+      "ram": 8,
+      "isDesktop": false
+    },
+    {
+      "id": 3,
+      "make": "Apple",
+      "name": "iMac",
+      "ram": 32,
+      "isDesktop": true
+    }
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "type": "Water",
+      "name": "Hydra",
+      "fizzLevel": 99
+    },
+    {
+      "id": 2,
+      "type": "Energy",
+      "name": "Red Bull",
+      "fizzLevel": 60
+    },
+    {
+      "id": 3,
+      "type": "Soda",
+      "name": "Sprite",
+      "fizzLevel": 80
+    }
+  ],
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "details": "Red Apple",
+      "tasteLevel": 50,
+      "approved": true
+    },
+    {
+      "id": 2,
+      "name": "Mango",
+      "details": "Ripe Mango",
+      "tasteLevel": 80,
+      "approved": true
+    },
+    {
+      "id": 3,
+      "name": "Strawberry",
+      "details": "Fresh Picked",
+      "tasteLevel": 80,
+      "approved": true
+    }
+  ],
   "items": [
     {
       "id": 1,
       "name": "first widget",
-      "description": "the first and only widget."
+      "description": "The first widget in the list."
+    },
+    {
+      "id": 2,
+      "name": "second widget",
+      "description": "The second widget in the list."
+    },
+    {
+      "id": 3,
+      "name": "third widget",
+      "description": "The third widget in the list."
+    }
+  ],
+  "pets": [
+    {
+      "id": 1,
+      "type": "cat",
+      "description": "very curious and playful, but can be quite independent at times."
+    },
+    {
+      "id": 2,
+      "type": "dog",
+      "description": "outgoing and loyal, often considered \"man's best friend.\""
+    },
+    {
+      "id": 3,
+      "type": "dragon",
+      "description": "imaginary pet, but great for defense."
+    }
+  ],
+  "phones": [
+    {
+      "id": 1,
+      "brand": "apple",
+      "name": "iphone"
+    },
+    {
+      "id": 2,
+      "brand": "samsung",
+      "name": "galaxy"
+    },
+    {
+      "id": 3,
+      "brand": "google",
+      "name": "pixel"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "project 1",
+      "details": "this is project 1",
+      "importanceLevel": 100
+    },
+    {
+      "id": 2,
+      "title": "project 2",
+      "details": "this is project 2",
+      "importanceLevel": 75
+    },
+    {
+      "id": 3,
+      "title": "project 3",
+      "details": "this is project 3",
+      "importanceLevel": 50
+    }
+  ],
+  "shoes": [
+    {
+      "id": 1,
+      "title": "nike",
+      "details": "airmax",
+      "coolLevel": 90
+    },
+    {
+      "id": 2,
+      "title": "vans",
+      "details": "old-schools",
+      "coolLevel": 80
+    },
+    {
+      "id": 3,
+      "title": "toms",
+      "details": "paseos",
+      "coolLevel": 65
+    }
+  ],
+  "species": [
+    {
+      "id": 1,
+      "title": "Humans",
+      "details": "Earth",
+      "intelligenceLevel": 3,
+      "approved": true
+    },
+    {
+      "id": 2,
+      "title": "Aliens",
+      "details": "Unknown",
+      "intelligenceLevel": 99,
+      "approved": false
+    },
+    {
+    "id": 3,
+    "title": "Dolphins",
+    "details": "Earth",
+    "intelligenceLevel": 10,
+    "approved": false
     }
   ]
 }
