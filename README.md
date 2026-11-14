@@ -172,4 +172,4 @@ The pros are that on UP the app will be deployed as a Lambda function. That way 
   up version
 ```
 
-? Readme and app added from json-server and jesperorb.
+? Readme and app added from json-server and rymdar.
